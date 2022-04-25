@@ -2,7 +2,7 @@
   "name": "finAPI",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/JeanSimas/finapi-backend",
+  "repository": "https://github.com/JeanSimas/finAPI",
   "author": "Jean Simas",
   "license": "MIT"
 }
